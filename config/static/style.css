@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #5D478B !important;
+}
+.changeX1{
+    height: 1000px;
+}
+.section-note, .section-concert, .section-footer{
+    margin-top: 70px;
+}
+.changeX2{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+}
+.changeX3{
+    width: 600px;
+    height: 400px;
+    margin-top: 70px;
+    border-radius: 30px;
+    box-shadow: 0 5px 30px 0 rgba(0,0,0,0.2);
+}
+
+.changeX4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    color: #fff;
+}
+
+.changeX8{
+    -webkit-box-shadow: 0px 0px 93px 1px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 0px 0px 93px 1px rgb
+
+
+    a(0, 0, 0, 0.44);
+    box-shadow: 0px 0px 93px 1px rgba(0, 0, 0, 0.44);
+    transition: 1s;
+}
+.changeX8:hover{
+    box-shadow: none;
+    transition: 1s;
+}
+
+.section-footer{
+    background-color: #08011e;
+    width: 100%;
+    height: 400px;
+}
+
+.changeX_li{
+    text-align: center;
+    list-style: none;
+    color: white;
+}
+.changeX_li > a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.change_row{
+    transform: translateY(50px);
+}
+
+.card-title , .card-text {
+    font-family: 'Open Sans', sans-serif;
+}
+.card-title {
+    font-weight: 600;
+}
+
+
